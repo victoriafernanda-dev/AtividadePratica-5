@@ -12,4 +12,4 @@
 <img src="public/images/Tela5.png" width="250"> 
 <img src="public/images/Tela6.png" width="250"> 
 <img src="public/images/Tela7.png" width="250"> 
-<img src="public/images/Tela8.png" width="250"> 
+<img src="public/images/Tela8.png" width="250">  
